@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehtarishabh
-- 👀 I’m frontend developer currently working in Y Media labs.
+- 👀 I’m javascript developer.
 - Checkout my website - https://onerishabh.in/ 
 
 
